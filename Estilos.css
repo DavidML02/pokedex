@@ -1,0 +1,38 @@
+
+.logo {
+    height: 55px;
+}
+
+
+.navbar {
+    background-color: red;
+}
+
+.fotopokemon {
+    height: 300px;
+}
+
+#result {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: gray;
+    padding-left: 50px; 
+}
+
+html {
+    background-color: orange;
+}
+
+.pokemon {
+    margin: 30px;
+    border: 1px solid black;
+    background-color: white;
+    width: 250px;
+    overflow: hidden;
+}
+
+.misa{
+    background-color: white;
+    display: flex; 
+    justify-content: space-around;
+}
